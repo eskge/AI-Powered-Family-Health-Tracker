@@ -58,11 +58,3 @@ based on clinically defined reference ranges.
 | Visualization | Plotly |
 | AI / LLM | Google Gemini |
 | Language | Python |
-
----
-
-## 🗂️ Project Structure
-
-├── app.py # Main Streamlit application
-├── health_tracker.db # SQLite database (auto-created)
-├── README.md
